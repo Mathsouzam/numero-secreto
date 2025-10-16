@@ -66,6 +66,7 @@ function reiniciarJogo() {
 }
 
 //teste
+//teste teste
 
 
 
